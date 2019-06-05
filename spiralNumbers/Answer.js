@@ -54,8 +54,5 @@ function spiralNumbers(n) {
 
     }
 
-
-
-
 return matrix
 }
