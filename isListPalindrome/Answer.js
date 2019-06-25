@@ -13,3 +13,5 @@ function isListPalindrome(l) {
 
     return arr.join('') === arr.reverse().join('')
 }
+
+// not really O(n)
